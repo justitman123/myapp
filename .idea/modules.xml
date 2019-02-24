@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/stm-account-service/stm-account-service.iml" filepath="$PROJECT_DIR$/stm-account-service/stm-account-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stm-auth-service/stm-auth-service.iml" filepath="$PROJECT_DIR$/stm-auth-service/stm-auth-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stm-eureka-server/stm-eureka-server.iml" filepath="$PROJECT_DIR$/stm-eureka-server/stm-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stm-payment-service/stm-payment-service.iml" filepath="$PROJECT_DIR$/stm-payment-service/stm-payment-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/stm-project-demo.iml" filepath="$PROJECT_DIR$/.idea/stm-project-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stm-shop-service/stm-shop-service.iml" filepath="$PROJECT_DIR$/stm-shop-service/stm-shop-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stm-user-service/stm-user-service.iml" filepath="$PROJECT_DIR$/stm-user-service/stm-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stm-zuul-edgeservice/stm-zuul-edgeservice.iml" filepath="$PROJECT_DIR$/stm-zuul-edgeservice/stm-zuul-edgeservice.iml" />
+    </modules>
+  </component>
+</project>

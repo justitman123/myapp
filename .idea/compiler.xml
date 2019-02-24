@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="stm-account-service" />
+        <module name="stm-auth-service" />
+        <module name="stm-eureka-server" />
+        <module name="stm-payment-service" />
+        <module name="stm-shop-service" />
+        <module name="stm-user-service" />
+        <module name="stm-zuul-edgeservice" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="stm-account-service" target="1.8" />
+      <module name="stm-auth-service" target="1.8" />
+      <module name="stm-eureka-server" target="1.8" />
+      <module name="stm-payment-service" target="1.8" />
+      <module name="stm-shop-service" target="1.8" />
+      <module name="stm-user-service" target="1.8" />
+      <module name="stm-zuul-edgeservice" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="stm-account-service" options="-parameters" />
+      <module name="stm-auth-service" options="-parameters" />
+      <module name="stm-eureka-server" options="-parameters" />
+      <module name="stm-payment-service" options="-parameters" />
+      <module name="stm-shop-service" options="-parameters" />
+      <module name="stm-user-service" options="-parameters" />
+      <module name="stm-zuul-edgeservice" options="-parameters" />
+    </option>
+  </component>
+</project>
