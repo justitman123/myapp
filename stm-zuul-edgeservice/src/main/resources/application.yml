@@ -21,7 +21,6 @@ zuul:
    path: /account/**
    serviceId: account-service
 
-
 #ribbon.eureka.enabled=false
 
 eureka:
